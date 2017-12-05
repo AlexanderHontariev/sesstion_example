@@ -85,3 +85,7 @@ D:\GITHUB\mvc_sesstion_example\sesstion_example\SesstionExample\SesstionExample\
 D:\GITHUB\mvc_sesstion_example\sesstion_example\SesstionExample\SesstionExample\obj\Debug\SesstionExample.csproj.CoreCompileInputs.cache
 D:\GITHUB\mvc_sesstion_example\sesstion_example\SesstionExample\SesstionExample\obj\Debug\SesstionExample.dll
 D:\GITHUB\mvc_sesstion_example\sesstion_example\SesstionExample\SesstionExample\obj\Debug\SesstionExample.pdb
+D:\GITHUB\mvc_sesstion_example\sesstion_example\SesstionExample\SesstionExample\bin\EntityFramework.dll
+D:\GITHUB\mvc_sesstion_example\sesstion_example\SesstionExample\SesstionExample\bin\EntityFramework.SqlServer.dll
+D:\GITHUB\mvc_sesstion_example\sesstion_example\SesstionExample\SesstionExample\bin\EntityFramework.xml
+D:\GITHUB\mvc_sesstion_example\sesstion_example\SesstionExample\SesstionExample\bin\EntityFramework.SqlServer.xml
